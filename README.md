@@ -1,4 +1,4 @@
-Project Idea: 
+Project Idea:          
 In our country we often see that fish farmers face different types of problems like there is no
 dynamic system to continuously measure water pH level, temperature, O2 and CO2 level, water level
 and show notification if any metrics get out of range. So our system will dynamically detect water
@@ -8,7 +8,7 @@ LCD monitor and a red led light will glow and piezo will start buzzing when the 
 
 
 
-Social Impact of the Project
+Social Impact of the Project:      
 Our system will help the fish farmer to maintain water quality for farming fish. As our system dynamically
 notify fish farmers about water quality, farmers are able to produce more fish and the death rate of fish
 during firming will be reduced. So the overall economy of the country will be enriched.
